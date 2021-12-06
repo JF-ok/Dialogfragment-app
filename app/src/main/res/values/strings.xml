@@ -3,4 +3,6 @@
     <string name="text_calendar_page">Calendar</string>
     <string name="text_feed_page">Feed</string>
     <string name="text_profile_page">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

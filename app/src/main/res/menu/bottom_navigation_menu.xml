@@ -2,19 +2,18 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/calendar_page"
-        android:enabled="true"
-        android:icon="@drawable/calendar_icon"
-        android:title="@string/text_calendar_page"/>
+        android:id="@+id/calendar_page_fragment"
+        android:icon="@drawable/ic_calendar_icon"
+        android:title="@string/text_calendar_page" />
     <item
-        android:id="@+id/today_page"
+        android:id="@+id/feed_page_fragment"
         android:enabled="true"
-        android:icon="@drawable/feed_view_icon"
+        android:icon="@drawable/ic_feed_view_icon"
         android:title="@string/text_feed_page"/>
     <item
-        android:id="@+id/profile_page"
+        android:id="@+id/profile_page_fragment"
         android:enabled="true"
-        android:icon="@drawable/profile_icon"
+        android:icon="@drawable/ic_profile_icon"
         android:title="@string/text_profile_page"/>
 
 </menu>
