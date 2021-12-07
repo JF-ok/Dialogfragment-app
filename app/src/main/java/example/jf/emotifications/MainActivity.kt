@@ -24,8 +24,7 @@ class MainActivity : AppCompatActivity() {
                     fragment = ProfileFragment()
                 }
             }
-            replaceFragment(fragment!!)
-
+                replaceFragment(fragment!!)
             true
         }
         bottomNavigationMenu.selectedItemId = R.id.feed_page_fragment
